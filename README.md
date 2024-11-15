@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...html and ccs
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...à big prgect 
-- 📫 How to reach me ...654547384 whatapp
+- 📫 How to reach me ...
 
 <!---
 Mukum54/Mukum54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
